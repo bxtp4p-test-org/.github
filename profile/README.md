@@ -1,3 +1,3 @@
-# Bxtp4p Demo Org
+# Bxtp4p Test Org
 
 Used only for demoing and testing. 
